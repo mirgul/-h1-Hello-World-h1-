@@ -5,7 +5,10 @@
 
   <body>
 
-<h1>Allakulovna Mirgul ZHumagulova</h1>
-<h2>Bishkek, KYrgyzstan</h2>
-
+<h1>Allakulovna Mirgul Zhumagulova</h1>
+<h2>Bishkek, Kyrgyzstan</h2>
+<h3>Education</h3>
+ Bishkek Ballet Academy, Bishkek, KG
+ Bishkek Gymnasium 67, Bishkek, KG
+ Wheaton Academy'16, West Chicago, IL
 
